@@ -1,0 +1,6 @@
+we don't have the concrete power or speed number,because every customer has different effet of the sample,but you can make follow as reference.
+  Cut 2mm Acrylic or plywood set 30%or25%power,30mm/s speed
+  Engrave can set 30%or25% power,340mm/s speed.
+  same power,slower speed means deeper cutting or engraving
+  same speed,bigger power means deeper cutting or engraving
+it needs you to adjust the power by your want effect,hope you can understand that.
